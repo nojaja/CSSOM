@@ -1793,5 +1793,4 @@ CSSOM.clone = function clone(stylesheet) {
 //.CommonJS
 exports.clone = CSSOM.clone;
 ///CommonJS
-window.CSSOM = exports;
 })(this);
