@@ -1,1 +1,2 @@
+window.CSSOM = exports;
 })(this);
