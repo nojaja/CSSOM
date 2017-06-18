@@ -11,7 +11,8 @@
   "author": "Nikita Vasilyev <me@elv1s.ru>",
   "repository": "NV/CSSOM",
   "files": [
-    "lib/"
+    "lib/",
+    "build/"
   ],
   "main": "./build/CSSOM.js",
   "devDependencies": {
